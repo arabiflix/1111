@@ -1,4 +1,4 @@
-### HOW TO CREATE 1111
+### HOW TO CREATE RDP
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
@@ -12,9 +12,9 @@
 
 > Press Add secret 
 
-> Go to Action> 1111> Run workflow
+> Go to Action> RDP> Run workflow
 
-> Refresh Web and go to 1111> build
+> Refresh Web and go to RDP> build
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
