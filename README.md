@@ -1,15 +1,4 @@
-# Avi_RDP 🍃
-
-it's all free, don't be stingy ⭐️ yes: D
-
-#### ^_^ Works For 6 hrs
-
-
-#### ⚠ Don't Edit AnyThing to keep Running Without any Error (+_+)
-
-<br>
-
-### HOW TO CREATE Avi_RDP
+### HOW TO CREATE 1111
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
@@ -23,9 +12,9 @@ it's all free, don't be stingy ⭐️ yes: D
 
 > Press Add secret 
 
-> Go to Action> CI> Run workflow
+> Go to Action> 1111> Run workflow
 
-> Refresh Web and go to CI> build
+> Refresh Web and go to 1111> build
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
@@ -34,15 +23,3 @@ it's all free, don't be stingy ⭐️ yes: D
 ```
 CPU 2core - 7GB Ram - 256 SSD
 ```
-
-### WARN
-```
-THIS IS ONLY FOR EDUCATIONAL PURPOSES
-
-DON'T USE FOR MINING OR ILLEGAL USE
-
-DON'T RECODE THIS SC!
-```
----
-
-#### Main Repository : https://github.com/avipatilpro/AviRDP
